@@ -3,9 +3,7 @@ function App (){
         <section>
             <div className="container">
                 <div className="row">
-                    <div className="col">
-                        <p>Samanta</p>
-                    </div>
+                    
                     <div className="col">
                         <p>Hernández</p>
                     </div>
