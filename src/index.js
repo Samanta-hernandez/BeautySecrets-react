@@ -1,17 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // iportar css en javaScript 
-import "./estilos/index.css";
 import reportWebVitals from './reportWebVitals';
+import App from "./app"
 
 // componentes
-import Header from "./componentes/Header"
-import Galeria from "./componentes/Galeria"
+
 
 ReactDOM.render(
   <React.StrictMode>
-      <Header />
-      <Galeria />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
