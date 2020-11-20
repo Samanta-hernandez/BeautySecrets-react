@@ -1,6 +1,6 @@
-import instagram from "../../recursos/instagram.png"
-import face from "../../recursos/facebook.png"
-import whatsapp from "../../recursos/whatsapp.png"
+import instagram from "../../recursos/img/instagram.png"
+import face from "../../recursos/img/facebook.png"
+import whatsapp from "../../recursos/img/whatsapp.png"
 
 function Pie (){
     return(

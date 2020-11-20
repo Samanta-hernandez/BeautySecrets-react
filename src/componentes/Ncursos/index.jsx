@@ -1,7 +1,7 @@
-import Recurso1 from "../../recursos/Recurso1.png"
-import Recurso2 from "../../recursos/Recurso2.png"
-import Recurso6 from "../../recursos/Recurso6.png"
-import Recurso7 from "../../recursos/Recurso7.jpg"
+import Recurso1 from "../../recursos/img/Recurso1.png"
+import Recurso2 from "../../recursos/img/Recurso2.png"
+import Recurso6 from "../../recursos/img/Recurso6.png"
+import Recurso7 from "../../recursos/img/Recurso7.jpg"
 function Ncursos (){
     return(
         <section className="bg-danger-x">

@@ -1,4 +1,4 @@
-import logo from "../../recursos/logo.png"
+import logo from "../../recursos/img/logo.png"
 function Menu (){
     return(
 
