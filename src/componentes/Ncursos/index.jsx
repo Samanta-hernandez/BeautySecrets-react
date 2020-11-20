@@ -1,4 +1,3 @@
-import "../../styles/estilos.css"
 import Recurso1 from "../../recursos/Recurso1.png"
 import Recurso2 from "../../recursos/Recurso2.png"
 import Recurso6 from "../../recursos/Recurso6.png"

@@ -1,4 +1,3 @@
-import "../../styles/estilos.css";
 import Fondo2 from "../../recursos/Fondo2.jpg";
 
 function Inicio (){

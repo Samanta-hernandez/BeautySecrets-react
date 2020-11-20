@@ -1,4 +1,3 @@
-import "../../styles/estilos.css";
 import Samanta from "../../recursos/samanta.jpg";
 import Jonathan from "../../recursos/Jonathan.jpg";
 

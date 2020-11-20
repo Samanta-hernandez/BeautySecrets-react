@@ -1,4 +1,3 @@
-import "../../styles/estilos.css"
 import logo from "../../recursos/logo.png"
 function Menu (){
     return(

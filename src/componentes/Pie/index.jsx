@@ -1,4 +1,3 @@
-import "../../styles/estilos.css"
 import instagram from "../../recursos/instagram.png"
 import face from "../../recursos/facebook.png"
 import whatsapp from "../../recursos/whatsapp.png"
