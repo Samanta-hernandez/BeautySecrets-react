@@ -34,7 +34,7 @@ function Menu (){
                     </li>
                     {/* <!-- S. Nosotros --> */}
                     <li class="nav-item ">
-                        <a class="nav-link text-body-x mr-5" href="index.html#quienesSomos" id="sobrN">Sobre nosotros</a>
+                        <a class="nav-link text-body-x mr-5" href="#quienesSomos" id="sobrN">Sobre nosotros</a>
                     </li>
                     {/* <!-- Ingresar --> */}
                     <li class="nav-item dropdown ">
