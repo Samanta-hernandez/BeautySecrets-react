@@ -1,4 +1,5 @@
 import logo from "../../recursos/img/logo.png"
+import "../../routes/router"
 function Menu (){
     return(
 
@@ -25,7 +26,7 @@ function Menu (){
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle text-body-x mr-5" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Cursos</a>
                         <div class="dropdown-menu text-body-x">
-                          <a class="dropdown-item" href="MasCapilares.html">Mascarillas Capilares</a>
+                          <link to="Capilares" class="dropdown-item">Mascarillas Capilares</link>
                           <a class="dropdown-item" href="MascFaciales.html">Mascarillas Faciales</a>
                           <a class="dropdown-item" href="Maquillaje.html">Maquillaje</a>
                           <a class="dropdown-item" href="Peinados.html">Peinados</a>
