@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.d562200e.chunk.css",
-    "main.js": "./static/js/main.6f40e86e.chunk.js",
-    "main.js.map": "./static/js/main.6f40e86e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.eb5d961a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.eb5d961a.js.map",
-    "static/js/2.6df9691f.chunk.js": "./static/js/2.6df9691f.chunk.js",
-    "static/js/2.6df9691f.chunk.js.map": "./static/js/2.6df9691f.chunk.js.map",
-    "static/js/3.0fa0ca36.chunk.js": "./static/js/3.0fa0ca36.chunk.js",
-    "static/js/3.0fa0ca36.chunk.js.map": "./static/js/3.0fa0ca36.chunk.js.map",
+    "main.css": "./static/css/main.2ae7009a.chunk.css",
+    "main.js": "./static/js/main.cb4f17e6.chunk.js",
+    "main.js.map": "./static/js/main.cb4f17e6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2d327cc2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2d327cc2.js.map",
+    "static/js/2.9cf1ed0d.chunk.js": "./static/js/2.9cf1ed0d.chunk.js",
+    "static/js/2.9cf1ed0d.chunk.js.map": "./static/js/2.9cf1ed0d.chunk.js.map",
+    "static/js/3.52421c45.chunk.js": "./static/js/3.52421c45.chunk.js",
+    "static/js/3.52421c45.chunk.js.map": "./static/js/3.52421c45.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.d562200e.chunk.css.map": "./static/css/main.d562200e.chunk.css.map",
-    "static/js/2.6df9691f.chunk.js.LICENSE.txt": "./static/js/2.6df9691f.chunk.js.LICENSE.txt",
+    "static/css/main.2ae7009a.chunk.css.map": "./static/css/main.2ae7009a.chunk.css.map",
+    "static/js/2.9cf1ed0d.chunk.js.LICENSE.txt": "./static/js/2.9cf1ed0d.chunk.js.LICENSE.txt",
+    "static/media/Capilar1.4411ce10.jpg": "./static/media/Capilar1.4411ce10.jpg",
+    "static/media/Capilar2.0668679f.jpg": "./static/media/Capilar2.0668679f.jpg",
+    "static/media/Capilar3.181b4984.jpg": "./static/media/Capilar3.181b4984.jpg",
     "static/media/Fondo2.1c27bfeb.jpg": "./static/media/Fondo2.1c27bfeb.jpg",
     "static/media/Jonathan.22e41036.jpg": "./static/media/Jonathan.22e41036.jpg",
     "static/media/Recurso1.1105b6b5.png": "./static/media/Recurso1.1105b6b5.png",
@@ -23,9 +26,9 @@
     "static/media/whatsapp.99d90744.png": "./static/media/whatsapp.99d90744.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb5d961a.js",
-    "static/js/2.6df9691f.chunk.js",
-    "static/css/main.d562200e.chunk.css",
-    "static/js/main.6f40e86e.chunk.js"
+    "static/js/runtime-main.2d327cc2.js",
+    "static/js/2.9cf1ed0d.chunk.js",
+    "static/css/main.2ae7009a.chunk.css",
+    "static/js/main.cb4f17e6.chunk.js"
   ]
 }
