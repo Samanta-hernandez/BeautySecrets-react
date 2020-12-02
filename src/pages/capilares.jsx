@@ -65,9 +65,7 @@ function Capilares (){
             </div>
         </div>
     </section>
-    
     <Pie/>
-
     </>
   
     );
