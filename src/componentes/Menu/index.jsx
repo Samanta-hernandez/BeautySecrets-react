@@ -21,7 +21,7 @@ function Menu() {
             <ul className="navbar-nav ml-auto ">
               {/* <!--inicio  --> */}
               <li className="nav-item ">
-                <Link to="home" className="nav-link text-body-x mr-5" >Inicio</Link>
+                <Link to="/" className="nav-link text-body-x mr-5" >Inicio</Link>
               </li>
               {/* <!-- Cursos --> */}
               <li className="nav-item dropdown">

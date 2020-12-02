@@ -7,12 +7,13 @@ import Peinados from "../pages/peinados"
 import Iniciar from "../pages/iniciar"
 import Registrarse from "../pages/registrarse"
 import Home from "../pages/home";
+import Error from "../pages/error"
 
 function Router() {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/home" exact>
+                <Route path="/" exact>
                     <Home />
                 </Route>
                 <Route path="/capilares" exact>
@@ -33,7 +34,9 @@ function Router() {
                 <Route path="/registrarse" exact>
                     <Registrarse />
                 </Route>
-
+                <Route>
+                    <Error />
+                </Route>
             </Switch>
         </BrowserRouter>
     );

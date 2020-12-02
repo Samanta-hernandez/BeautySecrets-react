@@ -23,7 +23,7 @@ function Iniciar (){
         <div className="container">
             <div className="row w-50  mx-auto">
                 <div className="col ">
-                    <Link to="home" className="cursor">
+                    <Link to="/" className="cursor">
                         <img className="w-25 py-2 mr-0" src={Cerrar} alt=""/>
                     </Link>
                 </div>
