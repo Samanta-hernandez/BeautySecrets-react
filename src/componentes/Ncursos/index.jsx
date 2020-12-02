@@ -5,10 +5,10 @@ import Recurso7 from "../../recursos/img/Recurso7.jpg"
 function Ncursos (){
     return(
         <section className="bg-danger-x">
-        <div class="container">
-            <div class="row ">
-                <div class="col-sm-12 col-md-8  mx-auto mt-5">
-                    <h1 class="pt-5">Nuestros Cursos</h1>
+        <div className="container">
+            <div className="row ">
+                <div className="col-sm-12 col-md-8  mx-auto mt-5">
+                    <h1 className="pt-5">Nuestros Cursos</h1>
                     <p>Te brindamos cursos videos tutoriales de belleza y salud facial y capilar, con el fin de 
                     que adquieras conocimiento, lo practiques, te consientas, ahorres dinero y lo más 
                     importante, que estés bella saludablemente.</p>
@@ -16,48 +16,48 @@ function Ncursos (){
             </div>
 
             {/* <!-- Carousel --> */}
-            <div class="row  mt-3 ">
-              <div class="col-sm-12 col-md-6  mx-auto mb-5">
-                <div id="carouselExampleCaptions" class="carousel slide mb-5" data-ride="carousel">
-                  <ol class="carousel-indicators">
-                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+            <div className="row  mt-3 ">
+              <div className="col-sm-12 col-md-6  mx-auto mb-5">
+                <div id="carouselExampleCaptions" className="carousel slide mb-5" data-ride="carousel">
+                  <ol className="carousel-indicators">
+                    <li data-target="#carouselExampleCaptions" data-slide-to="0" className="active"></li>
                     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
                     <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
                     <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
                   </ol>
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img src={Recurso1} class="d-block w-100" alt="..."/>
-                      <div class="carousel-caption d-none d-md-block">
+                  <div className="carousel-inner">
+                    <div className="carousel-item active">
+                      <img src={Recurso1} className="d-block w-100" alt="..."/>
+                      <div className="carousel-caption d-none d-md-block">
                         <h5>Maquillaje</h5>
                       </div>
                     </div>
-                    <div class="carousel-item">
-                      <img src={Recurso2} class="d-block w-100" alt="..."/>
-                      <div class="carousel-caption d-none d-md-block">
+                    <div className="carousel-item">
+                      <img src={Recurso2} className="d-block w-100" alt="..."/>
+                      <div className="carousel-caption d-none d-md-block">
                         <h5>Mascarillas Faciales</h5>
                       </div>
                     </div>
-                    <div class="carousel-item">
-                      <img src={Recurso6} class="d-block w-100" alt="..."/>
-                      <div class="carousel-caption d-none d-md-block">
+                    <div className="carousel-item">
+                      <img src={Recurso6} className="d-block w-100" alt="..."/>
+                      <div className="carousel-caption d-none d-md-block">
                         <h5>Peinados</h5>
                       </div>
                     </div>
-                    <div class="carousel-item">
-                      <img src={Recurso7} class="d-block w-100" alt="..."/>
-                      <div class="carousel-caption d-none d-md-block">
+                    <div className="carousel-item">
+                      <img src={Recurso7} className="d-block w-100" alt="..."/>
+                      <div className="carousel-caption d-none d-md-block">
                         <h5>Mascarillas Capilares</h5>
                       </div>
                     </div>
                   </div>
-                  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
+                  <a className="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span className="sr-only">Previous</span>
                   </a>
-                  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
+                  <a className="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span className="sr-only">Next</span>
                   </a>
                 </div>
               </div>

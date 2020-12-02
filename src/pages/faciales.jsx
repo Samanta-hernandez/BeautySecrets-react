@@ -9,18 +9,18 @@ function Faciales (){
     return(
     <>
     <Menu/>
-    <section class="bg-danger-a mt-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col mt-5"><h1>Mascarillas Faciales</h1></div>
+    <section className="bg-danger-a mt-5">
+            <div className="container">
+                <div className="row">
+                    <div className="col mt-5"><h1>Mascarillas Faciales</h1></div>
                 </div>
-                <div class="row mt-5 pb-sm-5">
-                    <div class="col-sm-12 col-md mb-5">
-                        <img class="w-75 h-100 position-relative i-b"src={Facial1} alt=""/>
-                        <img class="position-absolute hp i-d " src={Reproductor} alt=""/>
+                <div className="row mt-5 pb-sm-5">
+                    <div className="col-sm-12 col-md mb-5">
+                        <img className="w-75 h-100 position-relative i-b"src={Facial1} alt=""/>
+                        <img className="position-absolute hp i-d " src={Reproductor} alt=""/>
                     </div>
-                    <div class="col">
-                        <h3 class="pb-2">Mascarilla aclarante de
+                    <div className="col">
+                        <h3 className="pb-2">Mascarilla aclarante de
                             avena </h3>
                         <p>Ayuda con el exceso de grasa,
                             aclara la piel y elimina manchas.
@@ -28,13 +28,13 @@ function Faciales (){
                             cuerpo.</p>
                     </div>
                 </div>
-                <div class="row pb-sm-5">
-                    <div class="col-sm-12 col-md mb-5">
-                        <img class="w-75 h-100 position-relative i-b" src={Facial2} alt=""/>
-                        <img class="position-absolute hp i-d " src={Reproductor} alt=""/>
+                <div className="row pb-sm-5">
+                    <div className="col-sm-12 col-md mb-5">
+                        <img className="w-75 h-100 position-relative i-b" src={Facial2} alt=""/>
+                        <img className="position-absolute hp i-d " src={Reproductor} alt=""/>
                     </div>
-                    <div class="col">
-                        <h3 class="pb-2">Mascarilla para el acne
+                    <div className="col">
+                        <h3 className="pb-2">Mascarilla para el acne
                             de tomate y azucar </h3>
                     <p>Le da frescura a tu rostro, combate
                         en acné y las manchas, limpia los
@@ -43,13 +43,13 @@ function Faciales (){
                         Sirve de exfoliante.</p>
                     </div>
                 </div>
-                <div class="row pb-sm-5">
-                    <div class="col-sm-12 col-md mb-5">
-                        <img class="w-75 h-100 position-relative i-b" src={Facial3} alt=""/>
-                        <img class="position-absolute hp i-d " src={Reproductor} alt=""/>
+                <div className="row pb-sm-5">
+                    <div className="col-sm-12 col-md mb-5">
+                        <img className="w-75 h-100 position-relative i-b" src={Facial3} alt=""/>
+                        <img className="position-absolute hp i-d " src={Reproductor} alt=""/>
                     </div>
-                    <div class="col">
-                        <h3 class="pb-2">Mascarilla de cafe y huevo</h3>
+                    <div className="col">
+                        <h3 className="pb-2">Mascarilla de cafe y huevo</h3>
                         <p> Elimina puntos negros, minimiza
                             los poros, elimina imperfecciones
                             y aclara la piel.</p>

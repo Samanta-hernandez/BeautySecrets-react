@@ -1,15 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // iportar css en javaScript 
-import reportWebVitals from './reportWebVitals';
-import App from "./app"
+//import App from "./app";
 
 // componentes
+import Router from "./routes/router";
 
-
+import reportWebVitals from './reportWebVitals';
+import "./styles/estilos.css";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router />
   </React.StrictMode>,
   document.getElementById('root')
 );

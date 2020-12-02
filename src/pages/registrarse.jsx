@@ -5,7 +5,7 @@ import Tw from "../recursos/img/twitter.png"
 import Fc from "../recursos/img/Facebook2.png"
 import Go from "../recursos/img/Google.png"
 
-function Iniciar (){
+function Registrarse(){
     return(
     <section>
     {/* <!-- logo --> */}
@@ -21,10 +21,10 @@ function Iniciar (){
     {/* <!-- bottom cerrar --> */}
     <section className="bg-danger-y">
         <div className="container">
-            <div className="row w-50  mx-auto">
+            <div className="row w-50 mx-auto">
                 <div className="col ">
                     <Link to="home" className="cursor">
-                        <img className="w-25 py-2 mr-0" src={Cerrar} alt=""/>
+                        <img className=" w-25 py-2 " src={Cerrar} alt=""/>
                     </Link>
                 </div>
             </div>
@@ -32,10 +32,10 @@ function Iniciar (){
     </section>
     {/* <!-- Form --> */}
     <section className="bg-danger-y">
-        <div className="container">
+        <div className="container ">
             <div className="row w-50  mx-auto bg-white">
-                <div className="col mt-2">
-                    <Link to="registrarse" className="btn btn-block btn-primary-y p-3"><h4>Regístrate</h4></Link>
+                <div className="col-sm-12 col-md-6 mt-2">
+                    <Link to="registrarse"className="btn btn-block btn-primary-y p-3"><h4>Regístrate</h4></Link>
                 </div>
                 <div className="col mt-2">
                     <Link to="iniciar" className="btn btn-block btn-primary-y p-3"><h4>Iniciar Sesión</h4></Link>
@@ -55,11 +55,14 @@ function Iniciar (){
                         <div className="form-group ">
                           <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre de Usuario" required/>
                         </div>
+                        <div className="form-group ">
+                            <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Correo" required/>
+                          </div>
                         <div className="form-group">
                           <input type="password" className="form-control" id="exampleInputPassword1" placeholder="Contraseña" required/>
-                          <label className="text-muted cursor" for=""><h6><small>¿Olvidaste tu contraseña?</small></h6></label>
                         </div>
-                        <button type="submit" className="btn  btn-block btn-primary-a p-2">Iniciar Sesión</button>
+                        <button type="submit" className="btn  btn-block btn-primary-a p-2">Registrarse</button>
+                        <h6 >¿Ya tienes una cuenta? <a href="IniciarSesion.html">Inicia Sesión</a></h6>
                       </form>
                 </div>
             </div>
@@ -77,4 +80,4 @@ function Iniciar (){
     );
 }
 
-export default Iniciar
+export default Registrarse 

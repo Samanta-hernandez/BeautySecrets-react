@@ -9,44 +9,44 @@ function Peinados (){
     return(
     <>
     <Menu/>
-    <section class="bg-danger-y mt-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col mt-5"><h1>Peinados</h1></div>
+    <section className="bg-danger-y mt-5">
+            <div className="container">
+                <div className="row">
+                    <div className="col mt-5"><h1>Peinados</h1></div>
                 </div>
-                <div class="row mt-5 pb-sm-5">
-                    <div class="col-sm-12 col-md mb-5">
-                        <img class="w-75 h-100 position-relative i-b"src={Peinado1} alt=""/>
-                        <img class="position-absolute hp i-d " src={Reproductor} alt=""/>
+                <div className="row mt-5 pb-sm-5">
+                    <div className="col-sm-12 col-md mb-5">
+                        <img className="w-75 h-100 position-relative i-b"src={Peinado1} alt=""/>
+                        <img className="position-absolute hp i-d " src={Reproductor} alt=""/>
                     </div>
-                    <div class="col">
-                        <h3 class="pb-2">Trenzas africanas
+                    <div className="col">
+                        <h3 className="pb-2">Trenzas africanas
                         </h3>
                         <p>Aprende a realizar estas trenzas
                             africanas paso a paso de una
                             forma fácil y sencilla.</p>
                     </div>
                 </div>
-                <div class="row pb-sm-5">
-                    <div class="col-sm-12 col-md mb-5">
-                        <img class="w-75 h-100 position-relative i-b" src={Peinado2} alt=""/>
-                        <img class="position-absolute hp i-d " src={Reproductor} alt=""/>
+                <div className="row pb-sm-5">
+                    <div className="col-sm-12 col-md mb-5">
+                        <img className="w-75 h-100 position-relative i-b" src={Peinado2} alt=""/>
+                        <img className="position-absolute hp i-d " src={Reproductor} alt=""/>
                     </div>
-                    <div class="col">
-                        <h3 class="pb-2">Recogido con trenza </h3>
+                    <div className="col">
+                        <h3 className="pb-2">Recogido con trenza </h3>
                     <p>Una gran opción para peinado
                         de boda.
                         Fácil y sencillo, te mostraremos
                         el paso a paso.</p>
                     </div>
                 </div>
-                <div class="row pb-sm-5">
-                    <div class="col-sm-12 col-md mb-5">
-                        <img class="w-75 h-100 position-relative i-b" src={Peinado3} alt=""/>
-                        <img class="position-absolute hp i-d " src={Reproductor} alt=""/>
+                <div className="row pb-sm-5">
+                    <div className="col-sm-12 col-md mb-5">
+                        <img className="w-75 h-100 position-relative i-b" src={Peinado3} alt=""/>
+                        <img className="position-absolute hp i-d " src={Reproductor} alt=""/>
                     </div>
-                    <div class="col">
-                        <h3 class="pb-2">Trenza espina de pescado</h3>
+                    <div className="col">
+                        <h3 className="pb-2">Trenza espina de pescado</h3>
                         <p> Fácil trenza de espina de pescado,
                             peinado sencillo para el día a día.</p>
                     </div>
