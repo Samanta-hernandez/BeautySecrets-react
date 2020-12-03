@@ -11,7 +11,7 @@ import Error from "../pages/error"
 
 function Router() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="beautysecrets-react">
             <Switch>
                 <Route path="/" exact>
                     <Home />
