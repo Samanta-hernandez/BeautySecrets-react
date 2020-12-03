@@ -1,9 +1,9 @@
 import Menu from "../componentes/Menu";
 import Pie from "../componentes/Pie"
-import Reproductor from "../recursos/img/ReproductorVideo.png"
-import Maquillaje1 from "../recursos/img/Maquillaje1.jpeg"
-import Maquillaje2 from "../recursos/img/Maquillaje2.jpeg"
-import Maquillaje3 from "../recursos/img/Maquillaje3.jpeg"
+import Reproductor from "../recursos/images/reproductorVideo.png"
+import Maquillaje1 from "../recursos/images/maquillaje1.jpeg"
+import Maquillaje2 from "../recursos/images/maquillaje2.jpeg"
+import Maquillaje3 from "../recursos/images/maquillaje3.jpeg"
 
 function Maquillaje (){
     return(

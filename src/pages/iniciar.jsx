@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import Logo from "../recursos/img/logo.png"
-import Cerrar from "../recursos/img/cerrar.png"
-import Tw from "../recursos/img/twitter.png"
-import Fc from "../recursos/img/Facebook2.png"
-import Go from "../recursos/img/Google.png"
+import Logo from "../recursos/images/logo.png"
+import Cerrar from "../recursos/images/cerrar.png"
+import Tw from "../recursos/images/twitter.png"
+import Fc from "../recursos/images/face2.png"
+import Go from "../recursos/images/google.png"
 
 function Iniciar (){
     return(

@@ -1,5 +1,5 @@
-import Samanta from "../../recursos/img/samanta.jpg";
-import Jonathan from "../../recursos/img/Jonathan.jpg";
+import Samanta from "../../recursos/images/samanta.jpg";
+import Jonathan from "../../recursos/images/jonathan.jpg";
 
 function Nostros (){
     return(

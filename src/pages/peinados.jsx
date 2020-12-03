@@ -1,9 +1,9 @@
 import Menu from "../componentes/Menu";
 import Pie from "../componentes/Pie"
-import Reproductor from "../recursos/img/ReproductorVideo.png"
-import Peinado1 from "../recursos/img/Peinado1.jpeg"
-import Peinado2 from "../recursos/img/Peinado2.jpg"
-import Peinado3 from "../recursos/img/Peinado3.jpg"
+import Reproductor from "../recursos/images/reproductorVideo.png"
+import Peinado1 from "../recursos/images/peinado1.jpeg"
+import Peinado2 from "../recursos/images/peinado2.jpg"
+import Peinado3 from "../recursos/images/peinado3.jpg"
 
 function Peinados (){
     return(

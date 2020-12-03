@@ -1,9 +1,9 @@
 import Menu from "../componentes/Menu";
 import Pie from "../componentes/Pie"
-import Reproductor from "../recursos/img/ReproductorVideo.png"
-import Facial1 from "../recursos/img/facial1.jpg"
-import Facial2 from "../recursos/img/facial2.jpg"
-import Facial3 from "../recursos/img/facial3.jpg"
+import Reproductor from "../recursos/images/reproductorVideo.png"
+import Facial1 from "../recursos/images/facial1.jpg"
+import Facial2 from "../recursos/images/facial2.jpg"
+import Facial3 from "../recursos/images/facial3.jpg"
 
 function Faciales (){
     return(

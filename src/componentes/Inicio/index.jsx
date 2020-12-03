@@ -1,4 +1,4 @@
-import Fondo2 from "../../recursos/img/Fondo2.jpg";
+import Fondo2 from "../../recursos/images/fondo2.jpg";
 
 function Inicio (){
     return(

@@ -1,9 +1,9 @@
 import Menu from "../componentes/Menu";
 import Pie from "../componentes/Pie"
-import Reproductor from "../recursos/img/ReproductorVideo.png"
-import Capilar1 from "../recursos/img/Capilar1.jpg"
-import Capilar2 from "../recursos/img/Capilar2.jpg"
-import Capilar3 from "../recursos/img/Capilar3.jpg"
+import Reproductor from "../recursos/images/reproductorVideo.png"
+import Capilar1 from "../recursos/images/capilar1.jpg"
+import Capilar2 from "../recursos/images/capilar2.jpg"
+import Capilar3 from "../recursos/images/capilar3.jpg"
 
 function Capilares() {
     return (
